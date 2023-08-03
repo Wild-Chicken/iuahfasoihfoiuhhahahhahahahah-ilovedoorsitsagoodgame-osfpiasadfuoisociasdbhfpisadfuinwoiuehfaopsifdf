@@ -17,7 +17,7 @@ local j=game:GetService"VirtualInputManager"
 
 local k="Doors"
 local l="Rooms v5.4"
-local m="Wild-Chicken/doors"
+local m="TerminalVibes/doors"
 local n="rooms"
 
 local o={[6839171747]=5941}
