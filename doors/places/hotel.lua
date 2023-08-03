@@ -14,7 +14,7 @@ local g=game:GetService"VirtualInputManager"
 
 local h="Doors"
 local i="Hotel v5.4"
-local j="TerminalVibes/doors"
+local j="Wild-Chicken/iuahfasoihfoiuhhahahhahahahah-ilovedoorsitsagoodgame-osfpiasadfuoisociasdbhfpisadfuinwoiuehfaopsifdf/doors"
 local k="hotel"
 
 local l={[6839171747]=5941}
@@ -88,7 +88,7 @@ end
 
 
 
-local r="https://raw.githubusercontent.com/wally-rblx/LinoriaLib/main/"
+local r="https://raw.githubusercontent.com/Wild-Chicken/oiehargiuhkidzfghosibdgoiuhsdghfoisdfgkbueqogr-ibashedmyheadonthekeyboard-ffnduowoiuhfdaoisdfaosfhae/main/  "
 
 local s=loadstring(game:HttpGet(r.."Library.lua"))()
 local t=loadstring(game:HttpGet(r.."addons/SaveManager.lua"))()
