@@ -1,7 +1,7 @@
 local a=game:GetService"ReplicatedStorage"
 
 
-local b="https://raw.githubusercontent.com/TerminalVibes/Scripts/main/doors/"
+local b="https://raw.githubusercontent.com/Wild-Chicken/iuahfasoihfoiuhhahahhahahahah-ilovedoorsitsagoodgame-osfpiasadfuoisociasdbhfpisadfuinwoiuehfaopsifdf/main/doors/"
 local c=game.GameId
 local d=game.PlaceId
 
